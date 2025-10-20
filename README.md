@@ -42,5 +42,5 @@ This project demonstrates the power of API-based data scraping and automation fo
 ## ⚙️ Installation & Setup
 
 1. **Clone this repository**
-   git clone https://github.com/yourusername/google-maps-leads-generation-scraper.git
-   cd google-maps-leads-generation-scraper
+   git clone https://github.com/safooralone/google-maps-scraper.git
+   cd google-maps-scraper
